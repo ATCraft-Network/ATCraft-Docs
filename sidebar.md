@@ -1,6 +1,6 @@
 ## 开始
 
-* [首页](WELCOME.md)
+* [首页](welcome.md)
 * [常见问题](faq.md)
 * [服务器规则](server/rule/server-rules.md)
 * [服务器功能](server-function.md)
