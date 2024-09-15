@@ -53,6 +53,7 @@
     * [最终用户许可协议](quark/eula.md)
     * [配置文件](quark/configuration.md)
     * [模板引擎](quark/template-engine.md)
+    * [文本组件](quark/chat-components.md)
     * [模块](quark/modules.md)
 
 * 模块
